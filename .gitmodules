@@ -1,0 +1,3 @@
+[submodule "QtZeroConf"]
+	path = QtZeroConf
+	url = git@github.com:jbagg/QtZeroConf.git
